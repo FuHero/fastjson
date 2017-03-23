@@ -1,6 +1,2 @@
-/target
-/.project
-/.settings
-/.classpath
-/.idea
+.idea
 fastjson.iml
